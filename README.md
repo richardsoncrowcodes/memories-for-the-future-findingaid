@@ -76,4 +76,4 @@ npx @11ty/eleventy --serve --incremental
 - 20260116crowcodes
 - starting migration of metadata.csv to md files
 - TO DO fix content hanging off left side of viewport when witdth is below 600px
--created yanapaq.md, does not seem to populate properly in the site when searched
+-created yanapaq.md, does not seem to populate properly in the site when searched x
